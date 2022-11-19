@@ -14,5 +14,7 @@ public class Exercice1 {
 
         soma = x+y;
         System.out.println("A soma dos valores é: " + soma);
+        
+        ler.close();
     }
 }
