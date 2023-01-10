@@ -14,5 +14,6 @@ public class EstCondEx1 {
         } else {
                 System.out.println("O numero é negativo");
         }
+        ler.close();
     }
 }
