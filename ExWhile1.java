@@ -6,7 +6,7 @@ public class ExWhile1 {
        int senha = ler.nextInt();
 
 
-       while(senha != 2002){
+       while(senha != 2023){
            System.out.println("Senha inválida");
            senha = ler.nextInt();
        }
